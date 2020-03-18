@@ -11,6 +11,7 @@ import random
 import string
 import glob
 
+# a demo a php server side upload through post
 headers = {
     "Host": "api.test.testsite.com",
     "Connection": "keep-alive",
