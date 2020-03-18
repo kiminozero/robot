@@ -54,7 +54,7 @@ headers_m_205= {"Host": "m.atestsite.com",
 
 # s=requests.Session()
 # s.headers=headers_m_205
-# url=(host+"/index.php?act=login&op=pwIndex","mobile=15100003788&loginPassword=151788")
+# url=(host+"/index.php?act=login&op=pwIndex","mobile=15100003788&loginPassword=")
 
 proxies={'http':'127.0.0.1:8888'}
 
